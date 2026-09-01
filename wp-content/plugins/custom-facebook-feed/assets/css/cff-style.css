@@ -336,7 +336,7 @@
     margin: 0 0 0 -100% !important;
     font-size: 0;
     background: #eee;
-    background: url(/wp-content/plugins/custom-facebook-feed/assets/img/cff-avatar.png) no-repeat;
+    background: url(/HBcurrent/wp-content/plugins/custom-facebook-feed/assets/img/cff-avatar.png) no-repeat;
     background-size: 100%;
     border-radius: 50%;
 }
@@ -388,7 +388,7 @@
 #cff .cff-author.cff-no-author-info .cff-author-img {
     width: 40px;
     height: 40px;
-    background: url(/wp-content/plugins/custom-facebook-feed/assets/img/cff-avatar.png) no-repeat;
+    background: url(/HBcurrent/wp-content/plugins/custom-facebook-feed/assets/img/cff-avatar.png) no-repeat;
     margin: 0 !important;
 }
 
