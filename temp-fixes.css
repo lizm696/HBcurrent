@@ -1,5 +1,6 @@
 /* Temporary GitHub Pages fallback for missing hero image */
-.site-header grid-container grid-parent {
+
+#masthead {
+    background-image: none !important;
     background-color: #000 !important;
 }
-
