@@ -41,7 +41,7 @@
   top: -1px;
   right: -1px;
   bottom: -1px;
-  background: rgba(255, 255, 255, 0.8) url(/HBcurrent/wp-content/plugins/custom-sidebars/inc/external/wpmu-lib/img/spinner.gif) center no-repeat;
+  background: rgba(255, 255, 255, 0.8) url(/wp-content/plugins/custom-sidebars/inc/external/wpmu-lib/img/spinner.gif) center no-repeat;
   z-index: 1000;
   cursor: default;
   min-width: 20px;
@@ -54,7 +54,7 @@
   height: 20px;
   line-height: 20px;
   vertical-align: middle;
-  background: transparent url(/HBcurrent/wp-content/plugins/custom-sidebars/inc/external/wpmu-lib/img/spinner.gif) center no-repeat;
+  background: transparent url(/wp-content/plugins/custom-sidebars/inc/external/wpmu-lib/img/spinner.gif) center no-repeat;
 }
 
 .wpmui-overlay {

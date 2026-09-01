@@ -41,7 +41,7 @@
   top: 1px;
   right: 1px;
   bottom: 1px;
-  background: url(/HBcurrent/wp-content/plugins/custom-sidebars/assets/img/stripes.png);
+  background: url(/wp-content/plugins/custom-sidebars/assets/img/stripes.png);
   opacity: .05;
   z-index: 1000;
   cursor: default;
